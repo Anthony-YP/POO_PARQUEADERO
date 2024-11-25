@@ -1,5 +1,5 @@
 # PARQUEADERO
 
 # DIAGRAMA DE CLASES 
+![imagen](https://github.com/user-attachments/assets/df5d9942-50e3-4994-ba75-c6e5a9e5f733)
 
-![imagen](https://github.com/user-attachments/assets/721e7909-7256-4ba2-a146-da90bb93ca59)
